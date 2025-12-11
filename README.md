@@ -145,7 +145,9 @@
 ### 1. 部署后端服务
 你可以选择以下任意一种方式在本地运行服务：
 
-**选项 B：下载可执行文件 (.exe)** 前往 [jimeng-api Releases](https://github.com/iptag/jimeng-api/releases) 下载 Windows/Mac/Linux 版本并运行。
+**选项 A：下载可执行文件 (.exe)** 前往 [jimeng-api Releases](https://github.com/iptag/jimeng-api/releases) 下载 Windows/Mac/Linux 版本并运行。
+
+**选项 B：下载已配置好的.压缩包 (.7z)** JimengAPI_Release_V9_Green.7z
 
 服务启动后，默认地址为 `http://localhost:5100`
 
