@@ -1,0 +1,3 @@
+打开端口，地址栏CMD执行：python -m http.server 8000
+
+访问端口，浏览器打开：http://localhost:8000/Tapnow%20Studio-V2.6-1.html
