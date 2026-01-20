@@ -1,4 +1,4 @@
-# 🎨 麻衣画布
+# 🎨 Tapnow-Studio
 
 [![AI-Native](https://img.shields.io/badge/Code-AI_Generated-f9a8d4.svg)](https://deepmind.google/technologies/gemini/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -16,7 +16,7 @@
 ## 📖 简介 (Introduction)
 
 
-**麻衣画布** 是一个运行在浏览器中的可视化 AI 工作流工具。它采用“节点编辑”的交互方式（类似 ComfyUI），将当前最强大的 AI 模型能力聚合在一个无限缩放的画布上。
+**Tapnow-Studio** 是一个运行在浏览器中的可视化 AI 工作流工具。它采用“节点编辑”的交互方式（类似 ComfyUI），将当前最强大的 AI 模型能力聚合在一个无限缩放的画布上。
 
 它的核心理念是 **"轻量化"** 与 **"多模态协同"**。整个应用被打包在一个独立的 HTML 文件中，利用浏览器原生的能力和 CDN 资源，实现了复杂的 AI 交互逻辑。
 
